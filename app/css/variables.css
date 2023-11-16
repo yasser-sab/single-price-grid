@@ -1,0 +1,22 @@
+:root {
+
+	/*start color variables*/
+
+	--cyan: hsl(179, 62%, 43%);
+	--bright-Yellow: hsl(71, 73%, 54%);
+	--light-Gray: hsl(204, 43%, 93%);
+	--grayish-Blue: hsl(218, 22%, 67%);
+	--white:#fff;
+
+	/*end color variables*/
+
+	/*start font variables*/
+
+	--ff: 'Karla', sans-serif;
+	--fs: 16px;
+	--fs-s:400;
+	--fs-l:700;
+
+	/*end font variables*/
+
+}
